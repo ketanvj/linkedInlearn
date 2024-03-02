@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+//Adding comments demo of files modified after commit.
 public class ArrayListExamples {
 
 	// You as a programmer are telling the future colleagues that this method may
