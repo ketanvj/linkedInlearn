@@ -12,6 +12,8 @@ public class ArrayListExamples {
 
 	// You as a programmer are telling the future colleagues that this method may
 	// throw ArithmeticException
+
+//This line was added in Main branch. 
 	public static void main(String[] args) throws ArithmeticException, IOException {
 		// TODO Auto-generated method stub
 		List firstList = new ArrayList(); //raw list, Object, EVERY ENTRY IS OF Object
