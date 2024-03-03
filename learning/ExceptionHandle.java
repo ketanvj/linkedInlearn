@@ -15,10 +15,11 @@ public class ExceptionHandlingExample {
 		// TODO Auto-generated method stub
 //		List firstList = new ArrayList(); //raw list, Object
 
-		int x, y, z;
-		x = 10;
-		y = 11;
-		z = 5;
+
+		int p,q,r;
+		p = 10;
+		q = 11;
+		r = 5;
 
 		int d;
 		try {
