@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+//Changed and will be staged before committing. 
 //Adding comments demo of files modified after commit.
 public class ArrayListExamples {
 
