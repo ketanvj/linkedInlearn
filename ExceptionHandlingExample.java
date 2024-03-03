@@ -7,7 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ExceptionHandlingExample {
-
+	//Added a comment after staging.
+	//Added a commet for staging. 
 	// You as a programmer are telling the future colleagues that this method may
 	// throw ArithmeticException
 	public static void main(String[] args) throws ArithmeticException, IOException {
