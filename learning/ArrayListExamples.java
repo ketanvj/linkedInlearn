@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.List;
 //Changed and will be staged before committing. 
 //Adding comments demo of files modified after commit.
-public class ArrayListExamples {
+public class ArrayListExamplesFromFeatureSchedule {
 
 	// You as a programmer are telling the future colleagues that this method may
 	// throw ArithmeticException
